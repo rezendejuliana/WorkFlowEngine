@@ -1,0 +1,16 @@
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.exe
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.deps.json
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.runtimeconfig.json
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.runtimeconfig.dev.json
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.dll
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\ref\WorkFlowEngine.dll
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\bin\Debug\net5.0\WorkFlowEngine.pdb
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.csprojAssemblyReference.cache
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.AssemblyInfoInputs.cache
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.AssemblyInfo.cs
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.dll
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\ref\WorkFlowEngine.dll
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.pdb
+C:\Users\Juliana\source\repos\WorkFlowEngine\WorkFlowEngine\obj\Debug\net5.0\WorkFlowEngine.genruntimeconfig.cache
